@@ -4,6 +4,7 @@
 
 <div align="center">
   <img align="middle" src="https://github.com/gxc-international-innovation-challenge/Team-35/blob/main/Documents/Youth%20Engement.jpg" width="400"/>
+
 > "Alone we can do so little; together we can do so much." - Helen Keller
 
   
