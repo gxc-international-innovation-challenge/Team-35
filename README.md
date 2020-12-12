@@ -32,6 +32,10 @@ After having nailed the problem, we used the methods learned in this course to s
 
 To promote new form of engagement by bringing youngsters and change maker together to take actions in a world that needs it.
 
+
+## Overview 
+![Home Screen](https://github.com/gxc-international-innovation-challenge/Team-35/blob/main/Documents/Presentation/OurVoice.jpg)
+
 ## Who is this for?
 
 Our solution is for young people who are interested in getting involved in their community. Our Solution is also for social organizations that focus on youth engagement and empowerment. 
