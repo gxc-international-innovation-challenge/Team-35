@@ -57,5 +57,12 @@ This project has been possible thanks to our Team members and Contributors from 
 - Sydney Nguyen
 - Glory PIERRETTE
 
+## Important pages 
+
+- [The Problem Statement](https://github.com/gxc-international-innovation-challenge/Team-35/wiki/Problem-Statement-updated)
+- [The Story board](https://github.com/gxc-international-innovation-challenge/Team-35/wiki/03_Storyboard-latest-version_AW3)
+- [The Prototype](https://www.figma.com/proto/KaDfa81k3bmbqW7dfdDJeg/PTY-Team-Library?node-id=504%3A2&scaling=scale-down)
+- [Our Business Model](https://github.com/gxc-international-innovation-challenge/Team-35/wiki/10_Business_Canvas-updated)
+
 
 
