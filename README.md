@@ -1,10 +1,21 @@
 
 <h1 align="center">OurVoice - Stronger Together </h1>
 
-<img align="middle" src="https://github.com/gxc-international-innovation-challenge/Team-35/blob/main/Documents/Youth%20Engement.jpg" width="500"/>
+
+<div align="center">
+  <img align="middle" src="https://github.com/gxc-international-innovation-challenge/Team-35/blob/main/Documents/Youth%20Engement.jpg" width="400"/>
 > "Alone we can do so little; together we can do so much." - Helen Keller
+
+  
+  <h3>
+    <a href="https://yangshun.github.io/tech-interview-handbook/">Read on the website</a>
+  </h3>
+</div>
+
+
 <h2> </h2>
 <h2 align="center">
+  
   Team 35 aka Power to the Youngsters
 </h2>
 
@@ -16,9 +27,7 @@
 
 We are Team 35, currently  working on the challenge given by the Munich District Youth Association - Kreisjugendring München: 
 
-"The future of youth participation: how to empower the youngsters?"
-Our team line up Felipe:  Corrêa, Glory Pierrete, Sydney Nguyen, and Michael Spitzbart.
-
+**"The future of youth participation: how to empower the youngsters?"**
 
 ## Why do we want this?
 
@@ -39,4 +48,13 @@ To promote new form of engagement by bringing youngsters and change maker togeth
 ## Who is this for?
 
 Our solution is for young people who are interested in getting involved in their community. Our Solution is also for social organizations that focus on youth engagement and empowerment. 
+
+## Our Team 
+This project has been possible thanks to our Team members and Contributors from the Hochschule München University of Applied Sciences, the Munich District Youth Association and the Strascheg Center for Entrepreuneurship -  [Team Members](https://github.com/gxc-international-innovation-challenge/Team-35/graphs/contributors)
+- Felipe Correa
+- Michael Spitzbart
+- Sydney Nguyen
+- Glory PIERRETTE
+
+
 
