@@ -4,6 +4,8 @@
 <img align="middle" src="https://github.com/gxc-international-innovation-challenge/Team-35/blob/main/Documents/Youth%20Engement.jpg" width="500"/>
 > "Alone we can do so little; together we can do so much." - Helen Keller
 
+<h2 align="center">OurVoice - Team 35 aka Power to the Youngsters </h2>
+
 #### Welcome to the Repository of the Team 35 - aka Power to the Youngsters(PTY)
 
 
@@ -104,7 +106,7 @@ So that you can start straight away.
 
 ### Contributors
 
-This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false"></a>
+This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href=https://github.com/gxc-international-innovation-challenge/Team-35/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false"></a>
 
 ### Backers
 
