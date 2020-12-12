@@ -9,7 +9,7 @@
 
   
   <h3>
-    <a href="https://gxc-international-innovation-challenge.github.io/Team-35/">Read on the website</a>
+    <a href="https://gxc-international-innovation-challenge.github.io/Team-35/">Read on the Website</a>
   </h3>
 </div>
 
