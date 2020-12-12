@@ -4,15 +4,20 @@
 <img align="middle" src="https://github.com/gxc-international-innovation-challenge/Team-35/blob/main/Documents/Youth%20Engement.jpg" width="500"/>
 > "Alone we can do so little; together we can do so much." - Helen Keller
 
-<h2 align="center">OurVoice - Team 35 aka Power to the Youngsters </h2>
+<h2 align="center">
+  Team 35 aka Power to the Youngsters
+</h2>
+
+
 
 #### Welcome to the Repository of the Team 35 - aka Power to the Youngsters(PTY)
-
 
 We are working on the challenge given by the Munich District Youth Association - Kreisjugendring München: 
 
 "The future of youth participation: how to empower the youngsters?"
 Our team line up Felipe Corrêa, Glory Pierrete, Sydney Nguyen, and Michael Spitzbart.
+
+
 
 <div align="center">
   <a href="https://yangshun.github.io/tech-interview-handbook/">
@@ -33,13 +38,10 @@ Our team line up Felipe Corrêa, Glory Pierrete, Sydney Nguyen, and Michael Spit
 
 <hr/>
 
-<h3 align="center">
-  Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
-</h3>
 
 <hr/>
 
-## What is this?
+## What are we?
 
 Carefully curated content to help you ace your next technical interview, with a focus on algorithms. System design questions are in-progress. Besides the usual algorithm questions, other **awesome** stuff includes:
 
