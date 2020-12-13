@@ -51,7 +51,7 @@ To promote a new form of engagement by bringing youngsters and change-makers tog
 Our solution is for young people who are interested in getting involved in their community. Our Solution is also for social organizations that focus on youth engagement and empowerment. 
 
 ## Our Team 
-This project has been possible thanks to our Team members and Contributors from the Hochschule München University of Applied Sciences, the Munich District Youth Association and the Strascheg Center for Entrepreuneurship -  [Team Members](https://github.com/gxc-international-innovation-challenge/Team-35/graphs/contributors)
+This project has been possible thanks to our Team members and Contributors from the University of Applied Sciences of Munich, the Munich District Youth Association and the Strascheg Center for Entrepreuneurship -  [Team Members](https://github.com/gxc-international-innovation-challenge/Team-35/graphs/contributors)
 - Felipe Correa
 - Michael Spitzbart
 - Sydney Nguyen
