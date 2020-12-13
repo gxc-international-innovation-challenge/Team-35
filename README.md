@@ -36,11 +36,11 @@ This repository has _practical_ content that covers all phases of our teamwork, 
 
 ## What is our Solution ? 
 
-After having nailed the problem, we used the methods learned in this course to solve challenge given by the Munich District Youth Association. Our solution is called OurVoice. This is a digital Hub for change Making and Hope Building. This is an App for Youth by Youth. We used digital tools and built a protoptype of our solution.
+After having nailed the problem, we used the methods learned in this course to solve challenge given by the Munich District Youth Association. Our solution is called OurVoice. This is a digital hub for change making and hope building. This is an app for youth by youth. We used digital tools and built a protoptype of our solution.
 
 ## What is our Mission? 
 
-To promote new form of engagement by bringing youngsters and change maker together to take actions in a world that needs it.
+To promote a new form of engagement by bringing youngsters and change-makers together to take actions in a world that needs it.
 
 
 ## Overview 
