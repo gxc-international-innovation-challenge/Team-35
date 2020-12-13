@@ -32,7 +32,7 @@ We are Team 35, currently  working on the challenge given by the Munich District
 
 ## Why do we want this?
 
-This repository has _practical_ content that covers all phases of our teamwork , from nailing the problem, generating ideas, building a prototype, the business side of the solution to the final presentation .
+This repository has _practical_ content that covers all phases of our teamwork, from nailing the problem, generating ideas, building a prototype, the business side of the solution to the final presentation .
 
 ## What is our Solution ? 
 
