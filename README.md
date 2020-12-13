@@ -32,11 +32,11 @@ We are Team 35, currently  working on the challenge given by the Munich District
 
 ## Why do we want this?
 
-This repository has _practical_ content that covers all phases of our teamwork, from nailing the problem, generating ideas, building a prototype, the business side of the solution to the final presentation .
+Through the guidance of Hochsule Munchen's course, sponsors, and challenge givers, PTY' innovation stems from design thinking methods, observing interviewing, synthesizing, ideation, prototyping, testing, and feedback. This process cultivated new insights and prototypes that aim to help youth users with community activism.
 
 ## What is our Solution ? 
 
-After having nailed the problem, we used the methods learned in this course to solve challenge given by the Munich District Youth Association. Our solution is called OurVoice. This is a digital hub for change making and hope building. This is an app for youth by youth. We used digital tools and built a protoptype of our solution.
+"OurVoice" is a digital hub encouraging young people (14-25) to get involved in local civic issues on a global scale. Considering that social disparities and injustices revealed during COVID-19, youth are revolutionizing digital activism and awaken their drive to make a difference in their community and future. PTY startup developed “OurVoice” —an app that bridges youngsters around the world through social justice groups, resources, and strategies to mobilize change in their local communities.
 
 ## What is our Mission? 
 
