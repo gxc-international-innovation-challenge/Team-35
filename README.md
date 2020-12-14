@@ -1,4 +1,4 @@
-[![PTY Stats](https://github-readme-stats.vercel.app/api?username=Team-35)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">OurVoice - Stronger Together </h1>
 
 
