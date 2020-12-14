@@ -32,7 +32,7 @@ We are Team 35, currently  working on the challenge given by the Munich District
 
 ## Why do we want this?
 
-Through the guidance of Hochschsule Munchen's course, sponsors, and challenge givers, PTY' innovation stems from design thinking methods, observing interviewing, synthesizing, ideation, prototyping, testing, and feedback. This process cultivated new insights and prototypes that aim to help youth users with community activism.
+Through the guidance of Hochschsule Muenchen's course, sponsors, and challenge givers, PTY' innovation stems from design thinking methods, observing interviewing, synthesizing, ideation, prototyping, testing, and feedback. This process cultivated new insights and prototypes that aim to help youth users with community activism.
 
 ## What is our Solution ? 
 
