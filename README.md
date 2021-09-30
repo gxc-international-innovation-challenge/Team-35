@@ -26,7 +26,7 @@
 
 ## Who are we?
 
-We are Team 35, currently  working on the challenge given by the Munich District Youth Association - Kreisjugendring München: 
+We are Team 35, we have worked on the challenge given by the Munich District Youth Association - Kreisjugendring München: 
 
 **"The future of youth participation: how to empower the youngsters?"**
 
